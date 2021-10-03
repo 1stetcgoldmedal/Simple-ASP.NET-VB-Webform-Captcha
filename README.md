@@ -6,3 +6,7 @@ Simple-ASP.NET-VB-Webform-Captcha
 <img src="https://i.imgur.com/hjATyca.png" />
 <br/>
 <img src="https://i.imgur.com/QLxRYYH.png" />
+
+- English lowercase letters, uppercase letters, special characters, numbers, etc. can be added and removed.
+- Storing the captcha code in the session
+- Simple to use VB.NET ASP.NET Captcha
