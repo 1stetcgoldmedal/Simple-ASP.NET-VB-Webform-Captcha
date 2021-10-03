@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Captcha
+</name>
+</assembly>
+<members>
+<member name="T:Captcha.My.MyWebExtension">
+ <summary>
+ 웹 프로젝트용 My 네임스페이스에 사용할 수 있는 속성을 정의하는 데 사용되는 모듈입니다.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:Captcha.My.MyWebExtension.Computer">
+ <summary>
+ 호스트 컴퓨터에 대한 정보를 반환합니다.
+ </summary>
+</member>
+<member name="P:Captcha.My.MyWebExtension.User">
+ <summary>
+ 현재 웹 사용자에 대한 정보를 반환합니다.
+ </summary>
+</member>
+<member name="P:Captcha.My.MyWebExtension.Request">
+ <summary>
+ Request 개체를 반환합니다.
+ </summary>
+</member>
+<member name="P:Captcha.My.MyWebExtension.Response">
+ <summary>
+ Response 개체를 반환합니다.
+ </summary>
+</member>
+<member name="P:Captcha.My.MyWebExtension.Log">
+ <summary>
+ Asp 로그 개체를 반환합니다.
+ </summary>
+</member>
+<member name="F:Captcha.Index._form1">
+<summary>
+form1 컨트롤입니다.
+</summary>
+<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하세요.
+</remarks>
+</member>
+<member name="F:Captcha.Index._Image1">
+<summary>
+Image1 컨트롤입니다.
+</summary>
+<remarks>
+자동 생성 필드입니다.
+수정하려면 디자이너 파일에서 코드 숨김 파일로 필드 선언을 이동하세요.
+</remarks>
+</member>
+</members>
+</doc>
