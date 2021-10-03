@@ -1,5 +1,4 @@
-# Simple-ASP.NET-VB-Webform-Captcha
-Simple-ASP.NET-VB-Webform-Captcha
+ASP.NET Webform(VB.NET) Captcha
 <br/>
 <img src="https://i.imgur.com/QfMnu0K.png" />
 <br/>
